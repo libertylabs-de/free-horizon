@@ -1,10 +1,10 @@
 {
-  "name": "Horizon (beta)",
-  "authors": "Design Team",
+  "name": "Free Horizon",
+  "authors": "Design Team + Liberty Labs",
   "about_url": "https://meta.discourse.org/t/horizon-theme/360486",
   "license_url": "https://github.com/discourse/horizon/blob/main/LICENSE",
   "learn_more": "https://meta.discourse.org/t/installing-a-theme-or-theme-component/63682",
-  "theme_version": "0.0.1",
+  "theme_version": "0.0.2",
   "modifiers": {
     "svg_icons": ["fire"],
     "serialize_topic_is_hot": true
@@ -13,7 +13,7 @@
     "Horizon": {
       "primary": "1A1A1A",
       "secondary": "ffffff",
-      "tertiary": "595bca",
+      "tertiary": "b78b20",
       "tertiary-med-or-tertiary": "595bca",
       "selected": "d7dfff",
       "header_background": "ffffff",
@@ -23,7 +23,7 @@
     "Horizon Dark": {
       "primary": "ffffff",
       "secondary": "1A1A1A",
-      "tertiary": "595bca",
+      "tertiary": "b78b20",
       "tertiary-med-or-tertiary": "595bca",
       "selected": "3b3e56",
       "header_background": "1A1A1A",
